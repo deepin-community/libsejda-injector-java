@@ -1,0 +1,15 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: sejda-injector
+Source: https://github.com/torakiki/sejda-injector
+
+Files: *
+Copyright: 2017-2020, Andrea Vacondio
+License: Apache-2.0
+
+Files: debian/*
+Copyright: 2017-2020, Markus Koschany <apo@debian.org>
+License: Apache-2.0
+
+License: Apache-2.0
+ On Debian systems, the full text of the Apache-2.0 license
+ can be found in the file '/usr/share/common-licenses/Apache-2.0'

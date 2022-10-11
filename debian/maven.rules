@@ -1,0 +1,2 @@
+
+org.sejda sejda-injector jar s/.*/debian/ * *

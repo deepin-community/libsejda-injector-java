@@ -1,0 +1,19 @@
+libsejda-injector-java (2.0.0-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>  Thu, 19 May 2022 10:25:58 +0800
+
+libsejda-injector-java (2.0.0-1) unstable; urgency=medium
+
+  * New upstream version 2.0.0.
+  * Switch to debhelper-compat = 13.
+  * Declare compliance with Debian Policy 4.5.0.
+
+ -- Markus Koschany <apo@debian.org>  Sat, 24 Oct 2020 22:35:58 +0200
+
+libsejda-injector-java (1.0.2-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #866995)
+
+ -- Markus Koschany <apo@debian.org>  Mon, 03 Jul 2017 22:55:11 +0200
